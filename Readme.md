@@ -89,8 +89,7 @@ You can deploy this project using:
 ```
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> A live demo link will be uploaded soon.
-
+ [live demo](https://fatmahussein.github.io/Awesome-books-with-ES6/public/index.html?)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
