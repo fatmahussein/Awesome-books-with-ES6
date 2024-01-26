@@ -24,7 +24,7 @@
 
 This webpage shows a sneak peek into the project we have developed and deployed, showcasing my skills in HTML and Javascript.
 
-**[Awesome books Project]** is an HTML and CSS project
+**[Awesome books Project]** is an HTML and CSS project that enables a user to add and delete books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +35,7 @@ This webpage shows a sneak peek into the project we have developed and deployed,
 
 ### Key Features <a name="key-features"></a>
 - **A desktop responsive page with a minimum width of 375px**
-- **Well designed figma template transformed to a real webpage through codes**
+- **Well-designed figma template transformed into a real webpage through codes**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -43,10 +43,10 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+To run this project you need:
 
 - Visual Studio Code
-- Web browser such as chrome
+- Web browsers such as Chrome
 
 ### Setup
 
@@ -68,13 +68,13 @@ Install this project with:
 
 ### Usage
 
-To run the project, start the html file on live server or run normally from local directory
+To run the project, start the HTML file on the live server or run normally from the local directory
 
 ### Run tests
 
 To run tests, run the following command:
 ```sh
-  npx hint .
+  npx hint.
   npx stylelint "**/*.{css,scss}"
 ```
 
@@ -84,7 +84,7 @@ You can deploy this project using:
 
 ```sh
   gh-pages
-  netlify
+  notify
   vercel
 ```
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -114,7 +114,7 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Using Javascript class
-- A complete styled books library
+- A completely styled books library
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -123,12 +123,12 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can go ahead give a star to the repository.
+If you like this project you can go ahead and give a star to the repository.
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I give thanks to Microverse community for investing in me. I am looking forth to building more projects
+I give thanks to the Microverse community for investing in me. I am looking forward to building more projects
 
 ## 📝 License <a name="license"></a>
 
