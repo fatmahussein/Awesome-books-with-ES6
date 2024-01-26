@@ -22,9 +22,7 @@
 
 # 📖 Awesome-books<a name="about-project"></a>
 
-This webpage shows a sneak peek into the project we have developed and deployed, showcasing my skills in HTML and Javascript.
-
-**[Awesome books Project]** is an HTML and CSS project that enables a user to add and delete books.
+**[Awesome books Project]** is a book app that adds a book and its author, edits the book or author and deletes the book, built using HTML, CSS, and JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
